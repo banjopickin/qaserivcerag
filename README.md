@@ -1,5 +1,5 @@
 I created a QA service using RAG technique
-![plot](./rag.png)
+![plot](rag.png)
 
 ## Run the app
 Follow the steps below to run the app:
